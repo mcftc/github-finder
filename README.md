@@ -1,5 +1,17 @@
 # Github Finder App
 
-App to search Github users and display their info. This is part of my React Front To Back 2022 course and is the most up to date version of this project.
+Bu uygulama Github Kullanıcılarını aramak için kullanılır.
+Uygulama React ile yazılmıştır. Github API kullanılmıştır.
+
+Uygulama Brad Traversy tarafından React Front To Back eğitiminde yapılmıştır.
+
+UI kısmı için Tailwindcss kullanılarak Google Arama Motorundan esinlenerek tekrardan tasarlanmıştır.
+
+## Kullanım
+
+```bash
+npm install
+npm start
+```
 
 ---
