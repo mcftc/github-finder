@@ -12,9 +12,8 @@ function About() {
         Version <span className='text-white'>1.0.0</span>
       </p>
       <p className='text-lg text-gray-400'>
-        Uygulama Brad Traversy nin React Front To Back eğitiminden esinlenerek
-        yapılmıştır. Arama Motoru kısmı için Google Search Tasarımından
-        esinlenilmiştir. Uygulamanın tasarımı için Tailwind CSS kullanılmıştır.
+        Arama Motoru kısmı için Google Search Tasarımından esinlenilmiştir.
+        Uygulamanın tasarımı için Tailwind CSS kullanılmıştır.
       </p>
     </>
   )
